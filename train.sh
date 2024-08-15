@@ -1,0 +1,1 @@
+python TripG_train.py --target_dataset clipart22 --bs 2 --cuda
